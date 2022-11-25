@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MercadoOnline</string>
+    <string name="login">Login</string>
+    <string name="text_cadastro">Crie Uma Conta Aqui</string>
+    <string name="recupera_senha">Esqueci minha senha</string>
+    <string name="cadastrese">Cadastre-se</string>
+</resources>
